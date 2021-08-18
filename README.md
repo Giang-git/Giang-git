@@ -2,7 +2,7 @@
 <p>*Information Technology at <a href="https://www.bkacad.com/" target="_blank">BKACAD EDUCATION</a><img src="https://media2.giphy.com/media/12Lt1KWHowKtKo/200w.webp?cid=ecf05e47a8rxc2s9heq5j07r9w2oy3u7j0u69cz1kzs71qwm&rid=200w.webp&ct=g" width="30"></br>Another Freelance Dev<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 *</p>
 <img align="right" src="https://media0.giphy.com/media/wGEymBvo6FUlR9bbda/200w.webp?cid=ecf05e47rsevdblopy854yg2lv7diycrgjt3h8avq81clia1&rid=200w.webp&ct=g">
-<div> A little more about me... <img src="https://media1.giphy.com/media/1zKdxGDrWBhgJAQ3rk/200.webp?cid=ecf05e47nzze6lospsne0ge5entk3syyh96micfvs9ctof2p&rid=200.webp&ct=g" width="50"> </div>
+<div> A little more about me... <img src="https://media1.giphy.com/media/1zKdxGDrWBhgJAQ3rk/200.webp?cid=ecf05e47nzze6lospsne0ge5entk3syyh96micfvs9ctof2p&rid=200.webp&ct=g" width="100"> </div>
 <div>started learning to code from 2018 <img src="https://media4.giphy.com/media/SRlfK5a2d85nT06pWM/200w.webp?cid=ecf05e47v7rxj8kzckgqiy9t2z5wfx40fjhhwupsnv6p2f3q&rid=200w.webp&ct=ts" width="50"/></div>
 <p>
   Learn through php.</br>
