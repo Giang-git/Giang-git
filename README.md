@@ -5,6 +5,7 @@
 <div> A little more about me... <img src="https://media1.giphy.com/media/1zKdxGDrWBhgJAQ3rk/200.webp?cid=ecf05e47nzze6lospsne0ge5entk3syyh96micfvs9ctof2p&rid=200.webp&ct=g" width="100"> </div>
 <div>started learning to code from 2018 <img src="https://media4.giphy.com/media/SRlfK5a2d85nT06pWM/200w.webp?cid=ecf05e47v7rxj8kzckgqiy9t2z5wfx40fjhhwupsnv6p2f3q&rid=200w.webp&ct=ts" width="50"/></div>
 <p>
+  I'm from Viet Nam.</br>
   Learn through php.</br>
   But now i'm studying <i><strong>react</strong></i> (react js, react native).</br>
   Yeah, i think it's cool than php.</br>
